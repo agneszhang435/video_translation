@@ -1,4 +1,4 @@
-# Starbucks Video Localization Pipeline (English to Japanese)
+# Video Localization Pipeline
 
 An automated pipeline to transcribe English videos into text segments using **Fun-ASR-Nano** locally on CPU, translate them into natural localized Japanese narration with the **Gemini 2.5 API**, and synthesize a new video with matched Japanese audio tracks via **gTTS** and **FFmpeg**.
 
